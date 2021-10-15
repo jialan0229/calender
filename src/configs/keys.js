@@ -1,0 +1,5 @@
+const JUHE_APPKEY = "5f8532fcec15492575cb6d89a5cd8224";
+
+export {
+  JUHE_APPKEY
+}
